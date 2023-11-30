@@ -394,7 +394,7 @@ p {
 #research .research-img img {
 	transition: .3s ease transform;
 }
-#research .research-item:hover .project-img img {
+#research .research-item:hover .research-img img {
 	transform: scale(1.1);
 }
 /* End Research section */
